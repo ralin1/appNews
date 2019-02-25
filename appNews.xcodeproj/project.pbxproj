@@ -60,10 +60,10 @@
 		2C0FD3212219A5870045A9CC /* appNews */ = {
 			isa = PBXGroup;
 			children = (
+				2CC549C22224182200FDC300 /* Model */,
 				2C0FD3222219A5870045A9CC /* AppDelegate.swift */,
 				2C0FD3242219A5870045A9CC /* ViewController.swift */,
 				2C0FD3262219A5870045A9CC /* Main.storyboard */,
-				2CC549C1222415CD00FDC300 /* Model */,
 				2C0FD32C2219A58B0045A9CC /* Assets.xcassets */,
 				2C0FD32E2219A58B0045A9CC /* LaunchScreen.storyboard */,
 				2C0FD3312219A58B0045A9CC /* Info.plist */,
@@ -73,13 +73,12 @@
 			path = appNews;
 			sourceTree = "<group>";
 		};
-		2CC549C1222415CD00FDC300 /* Model */ = {
+		2CC549C22224182200FDC300 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				2CC549BF222415B100FDC300 /* Article.swift */,
 			);
-			name = Model;
-			path = "New Group";
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
